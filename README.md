@@ -1,0 +1,2 @@
+# Julia Function Error Handling
+This example demonstrates a common error in Julia functions: throwing an error without providing a more graceful way to handle the unexpected input.  The provided solution showcases better error handling using `try-catch` blocks for a more robust function.
